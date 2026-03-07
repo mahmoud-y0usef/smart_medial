@@ -1,0 +1,28 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-63wOhI8a.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/filament/admin/theme.css": {
+    "file": "assets/theme-V6d6mjnF.css",
+    "src": "resources/css/filament/admin/theme.css",
+    "isEntry": true
+  },
+  "resources/css/filament/clinic/theme.css": {
+    "file": "assets/theme-BG4dq0yZ.css",
+    "src": "resources/css/filament/clinic/theme.css",
+    "isEntry": true
+  },
+  "resources/css/filament/pharmacy/theme.css": {
+    "file": "assets/theme-DOkEIiWk.css",
+    "src": "resources/css/filament/pharmacy/theme.css",
+    "isEntry": true
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-FAX0xoE5.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}

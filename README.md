@@ -1,7 +1,9 @@
 # Smart Medical Platform - منصة الشفاء الذكي
 
 ## نظام إدارة عيادات طبية متكامل مع ذكاء اصطناعي ودمج WhatsApp
-
+<img src="Macbook_Air_M2_Mockup_1.jpg">
+<img src="Macbook_Air_M2_Mockup_2.jpg">
+<img src="Macbook_Air_M2_Mockup_3.jpg">
 ---
 
 ## معلومات الوصول

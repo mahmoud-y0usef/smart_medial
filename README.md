@@ -3011,7 +3011,7 @@ https://smart-medical.egypt-studio.com/
 **Smart Medical Platform**
 *نحو رعاية صحية أفضل وأسهل للجميع*
 
-مارس 2025
+مارس 2026
 
 ---
 
